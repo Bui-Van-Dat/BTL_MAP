@@ -38,7 +38,9 @@ Thiết kế và tạo ra ứng dụng smart home để điều khiển thông m
 		Bước 4: Upload .apk lên thiết bị
 		Bước 5: Cài đặt .apk vào vào thiết bị
 		Bước 6: Kích hoạt Activity được quy định chạy trước trong AndroidManifest
+		
 ##Kiểm thử chương trình
+
         | TEST CASE                      | TEST STEPTS                  | EXPECTE RESULT  | STATUS (PASS/FAIL)|
         | :----------------------------- | :--------------------------- | :-------------- | :---------------- |
         | Xác định giao diện đầu vào     |  1.Đăng ký tài khoản         |  successfull    | pass              |
